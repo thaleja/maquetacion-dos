@@ -1,0 +1,11 @@
+footer {
+    width: 100%; 
+    border-top: 1px solid black;
+    text-align: center;
+    padding: 10px;
+  }
+
+  .main-content {
+    min-height: 40vh; 
+  }
+  

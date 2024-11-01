@@ -1,0 +1,38 @@
+
+  .services-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-height: 50vh; 
+  }
+  
+  .services-header {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .services-content {
+    display: flex;
+    justify-content: space-around; 
+    width: 50%; 
+  }
+  
+  .service {
+    flex: 1;
+    padding: 20px;
+    border: 1px solid #000000;
+    margin: 0 10px; 
+    background-color: white;
+
+  }
+
+  footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: white;
+  }
+
+ body {
+    background-color: #FFF8E8; 
+  }
